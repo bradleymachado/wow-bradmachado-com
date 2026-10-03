@@ -1,0 +1,25 @@
+{
+ "title": "Traditions of the Bluff",
+ "level": 10,
+ "zone": "Thunder Bluff",
+ "start": {
+  "npc": "Eylah Sunhorn",
+  "loc": "Thunder Bluff [38.1, 56.2]"
+ },
+ "end": {
+  "npc": "Eylah Sunhorn",
+  "loc": "Thunder Bluff [38.2, 56.1]",
+  "xp": "210"
+ },
+ "objectives": {
+  "Sinew Thread from Mahu": 1,
+  "Bundle of Herbs from Nida Winterhoof": 1,
+  "Dried Cedar Twigs from Nata Dawnstrider": 1,
+  "Spread incense": 1
+ },
+ "area": "Thunder Bluff [44.0, 45.0]",
+ "requires": null,
+ "next": null,
+ "wowhead": "https://www.wowhead.com/forever/quest=97485",
+ "seconds": 68.9
+}
